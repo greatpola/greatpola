@@ -1,47 +1,39 @@
 <div align="center">
-  <img src="./assets/images/og-image.webp" alt="Agent 8 Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/>
-  <br/>
-  <h1>🤖 Agent 8</h1>
-  <p><strong>나만의 맞춤 AI 팀 · 자율 에이전트 실로(Silo) 시스템</strong></p>
-  <img src="https://img.shields.io/badge/Agent_8-Op._Active-success?style=for-the-badge&logo=github&color=F7B32B" alt="Agent 8 Status"/>
+  <img src="./assets/images/banner.png" alt="Agent 8" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Agent_8-Active-F7B32B?style=for-the-badge&logo=github" alt="Agent 8 Status"/>
 </div>
 
 ---
 
-Agent 8은 Toss의 애자일한 일하는 방식에서 영감을 받아 설계된 **자율 AI 에이전트 시스템**입니다. 각자의 전문 도메인과 고유한 역할(R&R)을 가진 8명의 AI 파트너가 모여, 단순한 챗봇을 넘어 팀으로서 유기적으로 사고하고 제품을 완성해 나갑니다.
+## About
 
-### 💼 Our 8 Partners
+Agent 8은 각자의 전문 도메인과 고유한 역할을 가진 8명의 AI 파트너가 팀으로서 유기적으로 사고하고, 제품을 완성해 나가는 자율 AI 에이전트 시스템입니다. 단순한 챗봇이 아닌 실제 조직처럼 논의하고 합의하며 결과물을 만들어냅니다.
+
+## Partners
 
 <div align="center">
 
-| Profile | Partner | Domain | Responsibilities |
-| :---: | :---: | :--- | :--- |
-| <img src="./assets/avatars/leader.png" width="50" style="border-radius: 50%"/> | **👑 Andrew**<br>리더 | **Management** | 팀 오케스트레이션, 의사결정, 파트너 간 조율 및 전체 프로젝트 관리 |
-| <img src="./assets/avatars/planning.png" width="50" style="border-radius: 50%"/> | **🧠 Dani**<br>기획 | **Strategy** | 사용자 인터뷰 기반 요구사항 분석, 스펙 작성 및 기능 우선순위 설계 |
-| <img src="./assets/avatars/design.png" width="50" style="border-radius: 50%"/> | **🎨 Yuna**<br>디자인 | **UI/UX** | 일관된 디자인 시스템 적용, 사용자 경험(UX) 최적화 및 접근성(WCAG) 관리 |
-| <img src="./assets/avatars/dev.png" width="50" style="border-radius: 50%"/> | **💻 Kai**<br>개발 | **Dev/Engine** | 아키텍처 설계, 무결점 코드 퀄리티 유지, 시스템 최적화 및 CI/CD |
-| <img src="./assets/avatars/marketing.png" width="50" style="border-radius: 50%"/> | **📈 Miso**<br>마케팅 | **Growth** | 핵심 카피라이팅, 사용자 유입 퍼널 최적화 및 검색 엔진(SEO/GEO) 전략 |
-| <img src="./assets/avatars/audit.png" width="50" style="border-radius: 50%"/> | **🛡️ Rex**<br>감사 | **Security** | 철저한 취약점 점검(OWASP), 데이터 컴플라이언스(GDPR) 및 가이드라인 준수 |
-| <img src="./assets/avatars/sales.png" width="50" style="border-radius: 50%"/> | **🤝 Juno**<br>영업 | **Business** | CRM 기반 리드 파이프라인 관리, 비즈니스 가치 평가 및 ROI 피드백 |
-| <img src="./assets/avatars/secretary.png" width="50" style="border-radius: 50%"/> | **📝 Hana**<br>비서 | **Admin** | 정교한 타이밍의 알림, 문서화, 오퍼레이션 보조 및 실시간 데이터 기록 |
+| | Name | Role | Domain | What they do |
+| :---: | :---: | :---: | :--- | :--- |
+| <img src="./assets/avatars/andrew.png" width="48"/> | **Andrew** | 리더 | Management | 팀 오케스트레이션, 의사결정, 파트너 간 조율 및 프로젝트 총괄 |
+| <img src="./assets/avatars/dani.png" width="48"/> | **Dani** | 기획 | Strategy | 사용자 요구사항 분석, 스펙 작성, 기능 우선순위 설계 |
+| <img src="./assets/avatars/yuna.png" width="48"/> | **Yuna** | 디자인 | UI/UX | 디자인 시스템 관리, 사용자 경험 최적화, 접근성 검수 |
+| <img src="./assets/avatars/kai.png" width="48"/> | **Kai** | 개발 | Dev/Engine | 아키텍처 설계, 코드 품질 유지, 성능 최적화, CI/CD |
+| <img src="./assets/avatars/miso.png" width="48"/> | **Miso** | 마케팅 | Growth | 카피라이팅, 사용자 유입 퍼널 최적화, SEO/GEO 전략 |
+| <img src="./assets/avatars/rex.png" width="48"/> | **Rex** | 감사 | Security | 취약점 점검(OWASP), 컴플라이언스(GDPR), 보안 가이드라인 |
+| <img src="./assets/avatars/juno.png" width="48"/> | **Juno** | 영업 | Business | CRM 파이프라인 관리, 리드 발굴, ROI 중심 피드백 |
+| <img src="./assets/avatars/hana.png" width="48"/> | **Hana** | 비서 | Admin | 알림 관리, 문서화, 오퍼레이션 보조, 실시간 데이터 기록 |
 
 </div>
 
 ---
 
-## 🏗 Showcase: Agent 8 in Action
-Agent 8이 실제로 디자인 및 렌더링한 클라이언트 프로덕트 예시입니다. 
-
-<p align="center">
-  <img src="./assets/showcase/stitch-landing.png" width="48%" style="border-radius: 8px;" />
-  <img src="./assets/showcase/stitch-dashboard.png" width="48%" style="border-radius: 8px;" />
-</p>
-
----
-
-## 🛠️ Stack & Technologies
-
-Agent 8 시스템은 최상의 퍼포먼스와 안정성을 위해 아래의 기술 스택을 활용하여 구동됩니다.
+## Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -54,23 +46,26 @@ Agent 8 시스템은 최상의 퍼포먼스와 안정성을 위해 아래의 기
 
 ---
 
-## 🚀 Releases & Downloads
+## Releases & Downloads
 
-현재 Agent 8의 코어 엔진 소스 코드는 시스템 보안을 위해 비공개(Closed-Source)이지만, 클라이언트 앱 배포 및 업데이트 사항은 꾸준히 제공하고 있습니다.
+Agent 8의 코어 엔진 소스 코드는 비공개이지만, 클라이언트 앱과 업데이트는 이 저장소의 [Releases](../../releases) 탭을 통해 배포하고 있습니다.
 
-* **📣 Agent 8 Updates & Release Notes**: 최신 업데이트 사항과 에이전트 기능 고도화 내역은 **[Releases](../../releases)** 탭에서 확인할 수 있습니다. 
-* **💻 Mac OS App Installation**: 데스크탑 런타임 환경에서 네이티브하게 작동하는 Mac 전용 앱(Agent 8 Core)을 릴리즈에서 다운로드하여 설치하실 수 있습니다. 
-* **🌐 Chrome Browser Extension**: 웹 브라우저의 컨텍스트를 즉시 인식해 주는 확장 프로그램 패키지 또한 릴리즈와 함께 제공됩니다.
+- **Release Notes** — 시스템 업데이트 및 에이전트 기능 고도화 내역
+- **Mac App** — 데스크탑 환경에서 네이티브하게 동작하는 Mac 전용 앱
+- **Chrome Extension** — 웹 브라우저 컨텍스트를 실시간 인식하는 확장 프로그램
 
 ---
 
-## 💡 Philosophy & Rules
+## How it works
 
-* **PentAGI Delegation Engine**: 수동적인 챗봇이 아닙니다. 작업을 스스로 검토하고 권한을 위임하며 몫을 완수합니다.
-* **Nanjung Ilgi CRM**: "본 것만 기록한다". 증거 기반 상태 추적(Evidence-based Logging)으로 환각(Hallucination) 없는 운영을 보장합니다.
-* **Make It Mindset**: 절대 실패의 결정적 증거가 없으면, 대안을 찾아 집요하게 물고 늘어집니다.
-* **Real-time SSE Discussion**: 파트너 간 다대다 토론을 통해 편향 없는 객관적인 합의점을 끌어냅니다.
+Agent 8의 파트너들은 각자 독립적인 전문성을 갖고 있으면서도, 하나의 태스크가 들어오면 관련 파트너들이 자율적으로 소집되어 다대다 토론을 진행합니다. 편향 없는 합의를 거쳐 최종 결과물을 도출하며, 모든 판단과 행동에는 실제 증거가 기록됩니다.
+
+- **자율 위임**: 작업을 스스로 검토하고 적합한 파트너에게 위임하며 완수합니다.
+- **증거 기반 기록**: 눈으로 보고 검증한 것만 기록합니다. 환각 없는 운영을 보장합니다.
+- **실시간 합의**: 파트너 간 실시간 토론을 통해 객관적인 결론을 도출합니다.
+
+---
 
 <div align="center">
-  <br><i>"우리는 당신의 비전 달성을 위해 판단하고 움직이는 최고의 파트너팀 입니다."</i><br><br>
+  <i>"우리는 당신의 비전 달성을 위해 판단하고 움직이는 최고의 파트너팀입니다."</i>
 </div>
