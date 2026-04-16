@@ -34,16 +34,16 @@ Agent 8 is an autonomous AI partner orchestration platform. 8 specialized AI age
 
 ### 🤝 The 8 Partners
 
-| Partner | Silo | Domain |
-|:---:|:---|:---|
-| 🥇 | **Andrew** | PM & Strategy — roadmaps, prioritization, sprint planning |
-| 🎨 | **Dani** | Product Design — UX flows, wireframes, design tokens |
-| 💅 | **Yuna** | Frontend Engineer — React, Next.js, component architecture |
-| ⚙️ | **Kai** | Backend Architect — Firebase, APIs, data modeling |
-| 📝 | **Miso** | Marketing & Content — SEO/GEO, copy, campaigns |
-| 🛡️ | **Rex** | Security Audit — zero-trust, vulnerability scanning |
-| 💼 | **Juno** | Sales Pipeline — BANT/MEDDIC, CRM, proposals |
-| 💬 | **Hana** | Customer Success — onboarding, retention, support |
+| Partner | Silo       | Domain                                                     |
+| :-----: | :--------- | :--------------------------------------------------------- |
+|   🥇    | **Andrew** | PM & Strategy — roadmaps, prioritization, sprint planning  |
+|   🎨    | **Dani**   | Product Design — UX flows, wireframes, design tokens       |
+|   💅    | **Yuna**   | Frontend Engineer — React, Next.js, component architecture |
+|   ⚙️    | **Kai**    | Backend Architect — Firebase, APIs, data modeling          |
+|   📝    | **Miso**   | Marketing & Content — SEO/GEO, copy, campaigns             |
+|   🛡️    | **Rex**    | Security Audit — zero-trust, vulnerability scanning        |
+|   💼    | **Juno**   | Sales Pipeline — BANT/MEDDIC, CRM, proposals               |
+|   💬    | **Hana**   | Customer Success — onboarding, retention, support          |
 
 ### ⚡ System Architecture
 
@@ -67,16 +67,16 @@ Agent 8 is an autonomous AI partner orchestration platform. 8 specialized AI age
 
 ### 🔧 Key Workflows
 
-| Command | Description |
-|:---|:---|
-| `/consensus` | Multi-partner debate & decision |
-| `/pola-loop` | Build → Verify → Repeat (until done) |
-| `/ship` | Quality Gate → PR creation |
-| `/deploy` | Build → Deploy → Guard |
-| `/security` | Zero-trust audit |
-| `/review` | 4-stage quality gate chain |
-| `/tdd` | RED → GREEN → REFACTOR cycle |
-| `/research` | Benchmark + experiment branch |
+| Command        | Description                          |
+| :------------- | :----------------------------------- |
+| `/consensus`   | Multi-partner debate & decision      |
+| `/agent8-loop` | Build → Verify → Repeat (until done) |
+| `/ship`        | Quality Gate → PR creation           |
+| `/deploy`      | Build → Deploy → Guard               |
+| `/security`    | Zero-trust audit                     |
+| `/review`      | 4-stage quality gate chain           |
+| `/tdd`         | RED → GREEN → REFACTOR cycle         |
+| `/research`    | Benchmark + experiment branch        |
 
 ---
 
@@ -84,25 +84,25 @@ Agent 8 is an autonomous AI partner orchestration platform. 8 specialized AI age
 
 ### 🌐 Domains
 
-| Domain | Description |
-|:---|:---|
-| [**agent8.org**](https://agent8.org) | Agent 8 official — AI Partner system overview & downloads |
+| Domain                                                         | Description                                                |
+| :------------------------------------------------------------- | :--------------------------------------------------------- |
+| [**agent8.org**](https://agent8.org)                           | Agent 8 official — AI Partner system overview & downloads  |
 | [**portfolio.greatpola.com**](https://portfolio.greatpola.com) | Interactive portfolio showcasing AI-native project outputs |
-| [**scentwiki.io**](https://scentwiki.io) | Global fragrance encyclopedia with AI recommendations |
-| [**marketing.picoinnov.com**](https://marketing.picoinnov.com) | Real-time KPI dashboard for pharmacy channel marketing |
-| [**partners.picoinnov.com**](https://partners.picoinnov.com) | Pharma talent matching & recruitment platform |
-| [**finance.greatpola.com**](https://finance.greatpola.com) | AI-powered corporate finance analyzer |
+| [**Project A.io**](https://Project A.io)                       | Global fragrance encyclopedia with AI recommendations      |
+| [**marketing.picoinnov.com**](https://marketing.picoinnov.com) | Real-time KPI dashboard for pharmacy channel marketing     |
+| [**partners.picoinnov.com**](https://partners.picoinnov.com)   | Pharma talent matching & recruitment platform              |
+| [**finance.greatpola.com**](https://finance.greatpola.com)     | AI-powered corporate finance analyzer                      |
 
 ### 🎯 Highlighted Products
 
-| | Project | Description | Tags |
-|:---:|:---|:---|:---|
-| ▲ | **[Agent 8](https://agent8.org)** | Autonomous AI partner platform — 8 specialized agents orchestrate, debate, self-improve, and ship code. Mac App + Chrome Extension. | `AI Agents` `Orchestration` `Living Software` |
-| 📊 | **[Pharmacy Marketing KPI Dashboard](https://marketing.picoinnov.com/)** | Real-time strategic insights and campaign management for pharmacy channel marketing teams. | `Real-time KPI` `Campaign Mgmt` `Data Visualization` |
-| 🤖 | **[PicoFriends — MR Training Simulator](https://picofriends-6d48f.web.app)** | AI simulation platform where pharmacy students experience MR roles in realistic scenarios. | `AI Simulation` `MR Roleplay` `Performance Analytics` |
-| 💼 | **[Pharma Talent Matching](https://partners.picoinnov.com)** | Industry-specialized recruitment connecting pharmacists, students, and pharma companies. | `Talent Matching` `Resume Management` `Smart Alerts` |
-| 📈 | **[Finance Greatpola](https://finance.greatpola.com/)** | AI-powered corporate finance analyzer with automated market insights. | `AI Finance` `Market Reports` `Real-time Data` |
-| 🌸 | **[Scentwiki.io](https://scentwiki.io)** | Global fragrance encyclopedia with AI-driven recommendations. | `Perfume Encyclopedia` `AI Recommendations` `Global Commerce` |
+|     | Project                                                                      | Description                                                                                                                         | Tags                                                          |
+| :-: | :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ |
+|  ▲  | **[Agent 8](https://agent8.org)**                                            | Autonomous AI partner platform — 8 specialized agents orchestrate, debate, self-improve, and ship code. Mac App + Chrome Extension. | `AI Agents` `Orchestration` `Living Software`                 |
+| 📊  | **[Pharmacy Marketing KPI Dashboard](https://marketing.picoinnov.com/)**     | Real-time strategic insights and campaign management for pharmacy channel marketing teams.                                          | `Real-time KPI` `Campaign Mgmt` `Data Visualization`          |
+| 🤖  | **[PicoFriends — MR Training Simulator](https://picofriends-6d48f.web.app)** | AI simulation platform where pharmacy students experience MR roles in realistic scenarios.                                          | `AI Simulation` `MR Roleplay` `Performance Analytics`         |
+| 💼  | **[Pharma Talent Matching](https://partners.picoinnov.com)**                 | Industry-specialized recruitment connecting pharmacists, students, and pharma companies.                                            | `Talent Matching` `Resume Management` `Smart Alerts`          |
+| 📈  | **[Finance Greatpola](https://finance.greatpola.com/)**                      | AI-powered corporate finance analyzer with automated market insights.                                                               | `AI Finance` `Market Reports` `Real-time Data`                |
+| 🌸  | **[Project A.io](https://Project A.io)**                                     | Global fragrance encyclopedia with AI-driven recommendations.                                                                       | `Perfume Encyclopedia` `AI Recommendations` `Global Commerce` |
 
 ---
 
@@ -115,7 +115,7 @@ Agent 8 is an autonomous AI partner orchestration platform. 8 specialized AI age
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI_(Gemini)-886FBF?style=flat-square&logo=google&logoColor=white)
+![Vertex AI](<https://img.shields.io/badge/Vertex_AI_(Gemini)-886FBF?style=flat-square&logo=google&logoColor=white>)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
@@ -129,18 +129,18 @@ Agent 8 is an autonomous AI partner orchestration platform. 8 specialized AI age
 
 <div align="center">
 
-| Metric | Count |
-|:---:|:---:|
-| **Iron Laws** | 11 |
-| **Partner Silos** | 8 |
-| **Domain Skills** | 85+ |
-| **Workflows** | 25 |
-| **Service Domains** | 17 |
-| **Route Groups** | 14 |
-| **Health Scanners** | 10 |
-| **Hook Events** | 5 |
-| **Quality Gates** | 4 |
-| **Approval Tiers** | 3 |
+|       Metric        | Count |
+| :-----------------: | :---: |
+|    **Iron Laws**    |  11   |
+|  **Partner Silos**  |   8   |
+|  **Domain Skills**  |  85+  |
+|    **Workflows**    |  25   |
+| **Service Domains** |  17   |
+|  **Route Groups**   |  14   |
+| **Health Scanners** |  10   |
+|   **Hook Events**   |   5   |
+|  **Quality Gates**  |   4   |
+| **Approval Tiers**  |   3   |
 
 </div>
 
@@ -148,5 +148,5 @@ Agent 8 is an autonomous AI partner orchestration platform. 8 specialized AI age
 
 <div align="center">
   <sub><strong>Strategies do not raise revenue — execution does.</strong></sub><br/>
-  <sub>© 2026 Antigravity · Built with Agent 8</sub>
+  <sub>© 2026 Agent 8 · Built with Agent 8</sub>
 </div>
