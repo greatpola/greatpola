@@ -6,14 +6,14 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2500&pause=800&color=8B6914&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=30&lines=8+AI+Partners+%C2%B7+17+Iron+Laws+%C2%B7+19+Service+Domains+%C2%B7+Living+Software" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2500&pause=800&color=8B6914&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=30&lines=Multi-Agent+Orchestration+%C2%B7+Headless+Architecture+%C2%B7+MCP+Integration" alt="Tagline" />
 
 <br/>
 
-**Most engineers write prompts. We build _Living Software_.**
+**Exploring autonomous multi-agent orchestration and scalable AI architectures.**
 
-An autonomous AI partner system where 8 specialized agents collaborate,<br/>
-debate, self-improve, and ship production code — without waiting for commands.
+An experimental multi-agent system where 8 specialized roles collaborate,
+debate, and execute tasks within a constrained, evidence-based environment.
 
 <br/>
 
@@ -28,9 +28,7 @@ debate, self-improve, and ship production code — without waiting for commands.
 
 ## What is Agent 8?
 
-> **"We are the best partner team that judges and acts to achieve your vision."**
-
-Agent 8 is an **autonomous AI partner orchestration platform**. Eight specialized AI agents operate as a unified team — planning strategy, writing production code, reviewing security, designing interfaces, managing pipelines, and deploying to production. The system is governed by **17 Iron Laws** that enforce evidence-based execution, zero-hallucination reporting, and continuous self-improvement.
+Agent 8 is an **experimental multi-agent orchestration system**. It explores how specialized AI agents (planning, design, engineering, security, and operations) can collaborate within a shared workspace. The system is governed by a set of strict rules (Iron Laws) designed to minimize hallucination, enforce predictable execution, and maintain code quality.
 
 ### The 8 Partners
 
@@ -49,17 +47,17 @@ Agent 8 is an **autonomous AI partner orchestration platform**. Eight specialize
 
 ## System Architecture
 
-```
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │                    AGENTS.md (17 Iron Laws)                   │
 │                                                              │
 │  Constrain · Verify · Inform · Correct · Scale               │
 │  Debt Mgmt · Anti-Copy · Terminal First · Anti-Stagnation    │
-│  Zero-Command · Living Software · D/R/O Responsibility       │
-│  Promotion Gate · No-BS · Handover · Usability First         │
+│  Zero-Command · D/R/O Responsibility · Promotion Gate        │
+│  No-BS · Handover · Usability First                          │
 │  Headless Brain-Only Architecture                            │
 ├──────────────────────────────────────────────────────────────┤
-│              Headless Brain Architecture                      │
+│              Headless Agent Architecture                      │
 │  Server-side IP isolation · API-first communication          │
 │  Swappable UI skins · Firebase Functions core                │
 ├──────────────────────────────────────────────────────────────┤
@@ -71,6 +69,20 @@ Agent 8 is an **autonomous AI partner orchestration platform**. Eight specialize
 │  Quality: typecheck → lint:strict → test → deploy            │
 └──────────────────────────────────────────────────────────────┘
 ```
+
+### Key Engineering Concepts
+
+- **Headless Brain Architecture**: The core logic (prompts, coordination, state) is strictly isolated on the server-side (Firebase Functions). The client is merely a swappable UI skin communicating via APIs.
+- **Model Context Protocol (MCP)**: Safely bridges the LLM with local and cloud environments, providing tools for browser automation, terminal access, and open knowledge graphs (`mcp-openrag`, `mcp-pptx`).
+- **SSE-based Discussion Pipeline**: Inter-agent debates and consensus-building are streamed in real-time to the client via Server-Sent Events, ensuring transparency.
+- **D/R/O Responsibility Framework**: Changes are strictly categorized. Safe modifications (`[D] Delegate`) are auto-executed. Business logic changes require review (`[R] Review`), and critical infrastructure/security updates (`[O] Own`) demand explicit human authorization.
+
+## Getting Started
+
+Access to the Agent 8 CLI and MCP adapters is available to registered developers.
+
+1. **Sign in to the Workspace**: Visit [agent8.org](https://agent8.org) and authenticate.
+2. **Setup CLI & MCP**: Once logged in, your workspace dashboard provides the necessary tokens and documentation to install the `agent8-cli` via NPM and configure your local MCP environments.
 
 ### Workflows
 
@@ -171,6 +183,5 @@ Agent 8 is an **autonomous AI partner orchestration platform**. Eight specialize
 ---
 
 <div align="center">
-  <sub><strong>Strategies do not raise revenue — execution does.</strong></sub><br/>
   <sub>© 2026 Antigravity · Built with Agent 8</sub>
 </div>
