@@ -18,6 +18,7 @@ debate, and execute tasks within a constrained, evidence-based environment.
 <br/>
 
 [![Website](https://img.shields.io/badge/Agent_8-agent8.org-C0392B?style=for-the-badge&logoColor=white)](https://agent8.org)
+[![Docs](https://img.shields.io/badge/Docs-agent8.org%2Fdocs-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://agent8.org/ko/docs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.greatpola.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.greatpola.com)
 [![Email](https://img.shields.io/badge/Contact-media@greatpola.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:media@greatpola.com)
 [![Coffee Chat](https://img.shields.io/badge/Coffee_Chat-Book_Now-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3KV-c-giEe6I_6RaAmWbJMMfYaRFbH7cQYfvNJcRVR1jSxLAm3xIUxuu2a_5Fe-EbG5Uo6ifRb?gv=true)
@@ -81,8 +82,9 @@ Agent 8 is an **experimental multi-agent orchestration system**. It explores how
 
 Access to the Agent 8 CLI and MCP adapters is available to registered developers.
 
-1. **Sign in to the Workspace**: Visit [agent8.org](https://agent8.org) and authenticate.
-2. **Setup CLI & MCP**: Once logged in, your workspace dashboard provides the necessary tokens and documentation to install the `agent8-cli` via NPM and configure your local MCP environments.
+1. **Documentation**: Comprehensive technical documentation, architecture guidelines, and API references are available at [agent8.org/ko/docs](https://agent8.org/ko/docs).
+2. **Sign in to the Workspace**: Visit [agent8.org](https://agent8.org) and authenticate.
+3. **Setup CLI & MCP**: Once logged in, your workspace dashboard provides the necessary tokens to install the `agent8-cli` via NPM and configure your local MCP environments.
 
 ### Workflows
 
