@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2500&pause=800&color=8B6914&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=30&lines=8+Autonomous+AI+Partners+%C2%B7+85%2B+Skills+%C2%B7+25+Workflows+%C2%B7+Living+Software" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2500&pause=800&color=8B6914&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=30&lines=8+AI+Partners+%C2%B7+17+Iron+Laws+%C2%B7+19+Service+Domains+%C2%B7+Living+Software" alt="Tagline" />
 
 <br/>
 
@@ -26,121 +26,145 @@ debate, self-improve, and ship production code — without waiting for commands.
 
 ---
 
-## 🏗️ Agent 8 — The Core System
+## What is Agent 8?
 
 > **"We are the best partner team that judges and acts to achieve your vision."**
 
-Agent 8 is an autonomous AI partner orchestration platform. 8 specialized AI agents work as a unified team — planning strategy, writing code, reviewing security, designing UI, managing sales pipelines, and shipping to production.
+Agent 8 is an **autonomous AI partner orchestration platform**. Eight specialized AI agents operate as a unified team — planning strategy, writing production code, reviewing security, designing interfaces, managing pipelines, and deploying to production. The system is governed by **17 Iron Laws** that enforce evidence-based execution, zero-hallucination reporting, and continuous self-improvement.
 
-### 🤝 The 8 Partners
+### The 8 Partners
 
-| Partner | Silo       | Domain                                                     |
-| :-----: | :--------- | :--------------------------------------------------------- |
-|   🥇    | **Andrew** | PM & Strategy — roadmaps, prioritization, sprint planning  |
-|   🎨    | **Dani**   | Product Design — UX flows, wireframes, design tokens       |
-|   💅    | **Yuna**   | Frontend Engineer — React, Next.js, component architecture |
-|   ⚙️    | **Kai**    | Backend Architect — Firebase, APIs, data modeling          |
-|   📝    | **Miso**   | Marketing & Content — SEO/GEO, copy, campaigns             |
-|   🛡️    | **Rex**    | Security Audit — zero-trust, vulnerability scanning        |
-|   💼    | **Juno**   | Sales Pipeline — BANT/MEDDIC, CRM, proposals               |
-|   💬    | **Hana**   | Customer Success — onboarding, retention, support          |
-
-### ⚡ System Architecture
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                    AGENTS.md (11 Iron Laws)              │
-│  Constrain · Verify · Inform · Correct · Scale          │
-│  Debt Mgmt · Anti-Copy · Terminal First                 │
-│  Anti-Stagnation · Zero-Command · Living Software       │
-├─────────────────────────────────────────────────────────┤
-│          Orchestration Patterns                          │
-│  PentAGI · MiroFish-Ko · Map-Reduce · Hyperloop         │
-├─────────────────────────────────────────────────────────┤
-│  📂 85+ Skills    📂 25 Workflows    📂 5 Hook Events   │
-│  📂 17 Service Domains    📂 14 Route Groups             │
-├─────────────────────────────────────────────────────────┤
-│  Approval: 🟢 GREEN (auto) → 🟡 YELLOW (2+ vote)       │
-│            → 🔴 RED (admin mandatory)                    │
-└─────────────────────────────────────────────────────────┘
-```
-
-### 🔧 Key Workflows
-
-| Command        | Description                          |
-| :------------- | :----------------------------------- |
-| `/consensus`   | Multi-partner debate & decision      |
-| `/agent8-loop` | Build → Verify → Repeat (until done) |
-| `/ship`        | Quality Gate → PR creation           |
-| `/deploy`      | Build → Deploy → Guard               |
-| `/security`    | Zero-trust audit                     |
-| `/review`      | 4-stage quality gate chain           |
-| `/tdd`         | RED → GREEN → REFACTOR cycle         |
-| `/research`    | Benchmark + experiment branch        |
+| Partner | Silo | Domain |
+|:---:|:---|:---|
+| 👑 | **Andrew** (앤드류) | **Lead** — Task decomposition, partner routing, final decision-making |
+| 🧠 | **Dani** (다니) | **Strategy** — PRD authoring, opportunity-solution trees, user research |
+| 🎨 | **Yuna** (유나) | **UI/UX** — Design tokens, visual consistency, accessibility (A11y) |
+| 💻 | **Kai** (카이) | **Dev/Engine** — Architecture, auto-heal, security hardening, CI/CD |
+| 📈 | **Miso** (미소) | **Growth** — SEO/AEO/GEO strategy, copywriting, A/B testing |
+| 🛡️ | **Rex** (렉스) | **Security** — OWASP audit, GDPR, IAM/Firestore rules review |
+| 🤝 | **Juno** (주노) | **Business** — B2B pipeline (CRM), ROI analysis, customer success |
+| 📝 | **Hana** (하나) | **Admin** — Meeting notes, documentation sync, operations scheduling |
 
 ---
 
-## 🚀 Projects Showcase
+## System Architecture
 
-### 🌐 Domains
+```
+┌──────────────────────────────────────────────────────────────┐
+│                    AGENTS.md (17 Iron Laws)                   │
+│                                                              │
+│  Constrain · Verify · Inform · Correct · Scale               │
+│  Debt Mgmt · Anti-Copy · Terminal First · Anti-Stagnation    │
+│  Zero-Command · Living Software · D/R/O Responsibility       │
+│  Promotion Gate · No-BS · Handover · Usability First         │
+│  Headless Brain-Only Architecture                            │
+├──────────────────────────────────────────────────────────────┤
+│              Headless Brain Architecture                      │
+│  Server-side IP isolation · API-first communication          │
+│  Swappable UI skins · Firebase Functions core                │
+├──────────────────────────────────────────────────────────────┤
+│  📂 53 Skills (18 active · 35 archived)                      │
+│  📂 6 Workflows     📂 12 Monorepo Packages                 │
+│  📂 19 Service Domains    📂 14 Route Groups                 │
+├──────────────────────────────────────────────────────────────┤
+│  D/R/O Responsibility: [D] Delegate → [R] Review → [O] Own  │
+│  Quality: typecheck → lint:strict → test → deploy            │
+└──────────────────────────────────────────────────────────────┘
+```
 
-| Domain                                                         | Description                                                |
-| :------------------------------------------------------------- | :--------------------------------------------------------- |
-| [**agent8.org**](https://agent8.org)                           | Agent 8 official — AI Partner system overview & downloads  |
-| [**portfolio.greatpola.com**](https://portfolio.greatpola.com) | Interactive portfolio showcasing AI-native project outputs |
-| [**Project A.io**](https://Project A.io)                       | Global fragrance encyclopedia with AI recommendations      |
-| [**marketing.picoinnov.com**](https://marketing.picoinnov.com) | Real-time KPI dashboard for pharmacy channel marketing     |
-| [**partners.picoinnov.com**](https://partners.picoinnov.com)   | Pharma talent matching & recruitment platform              |
-| [**finance.greatpola.com**](https://finance.greatpola.com)     | AI-powered corporate finance analyzer                      |
+### Workflows
 
-### 🎯 Highlighted Products
+| Command | Description |
+|:---|:---|
+| `/plan` | Research, consensus, iterative planning |
+| `/dev` | Dev server, build, dead-code removal, E2E |
+| `/review` | 4-stage quality gate + security audit |
+| `/deploy` | Build → Quality guard → Firebase deploy |
+| `/execution-harness` | Proof-of-work consensus workflow |
+| `/auto-heal` | Safe patch generation for build errors |
 
-|     | Project                                                                      | Description                                                                                                                         | Tags                                                          |
-| :-: | :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------ |
-|  ▲  | **[Agent 8](https://agent8.org)**                                            | Autonomous AI partner platform — 8 specialized agents orchestrate, debate, self-improve, and ship code. Mac App + Chrome Extension. | `AI Agents` `Orchestration` `Living Software`                 |
-| 📊  | **[Pharmacy Marketing KPI Dashboard](https://marketing.picoinnov.com/)**     | Real-time strategic insights and campaign management for pharmacy channel marketing teams.                                          | `Real-time KPI` `Campaign Mgmt` `Data Visualization`          |
-| 🤖  | **[PicoFriends — MR Training Simulator](https://picofriends-6d48f.web.app)** | AI simulation platform where pharmacy students experience MR roles in realistic scenarios.                                          | `AI Simulation` `MR Roleplay` `Performance Analytics`         |
-| 💼  | **[Pharma Talent Matching](https://partners.picoinnov.com)**                 | Industry-specialized recruitment connecting pharmacists, students, and pharma companies.                                            | `Talent Matching` `Resume Management` `Smart Alerts`          |
-| 📈  | **[Finance Greatpola](https://finance.greatpola.com/)**                      | AI-powered corporate finance analyzer with automated market insights.                                                               | `AI Finance` `Market Reports` `Real-time Data`                |
-| 🌸  | **[Project A.io](https://Project A.io)**                                     | Global fragrance encyclopedia with AI-driven recommendations.                                                                       | `Perfume Encyclopedia` `AI Recommendations` `Global Commerce` |
+### Monorepo Packages
+
+| Package | Purpose |
+|:---|:---|
+| `core-types` | Shared TypeScript interfaces & enums |
+| `agent-utils` | Common utility functions for agents |
+| `agent-server` | Standalone agent server runtime |
+| `agent8-cli` | CLI tool (`agent8 audit`, `agent8 heal`) |
+| `mac-app` | Electron-based Mac desktop application |
+| `browser` | Chrome Extension for browser integration |
+| `browser-agent-api` | Browser-side agent API bridge |
+| `mcp-agents` | Model Context Protocol agent adapters |
+| `mcp-openrag` | OpenRAG knowledge graph integration |
+| `mcp-pptx` | PowerPoint generation via MCP |
+| `discord-daemon` | Discord bot for multi-channel ops |
+| `tts-server` | Text-to-Speech server (Web Audio streaming) |
 
 ---
 
-## 🛠️ Tech Stack
+## Projects Showcase
+
+### Live Domains
+
+| Domain | Description |
+|:---|:---|
+| [**agent8.org**](https://agent8.org) | Agent 8 — AI Partner platform, workspace, downloads |
+| [**portfolio.greatpola.com**](https://portfolio.greatpola.com) | Interactive portfolio of AI-native project outputs |
+| [**scentwiki.io**](https://scentwiki.io) | Global fragrance encyclopedia with AI recommendations |
+| [**marketing.picoinnov.com**](https://marketing.picoinnov.com) | Real-time KPI dashboard for pharmacy marketing |
+| [**partners.picoinnov.com**](https://partners.picoinnov.com) | Pharma talent matching & recruitment platform |
+| [**finance.greatpola.com**](https://finance.greatpola.com) | AI-powered corporate finance analyzer |
+
+### Highlighted Products
+
+| | Project | Description | Stack |
+|:---:|:---|:---|:---|
+| ▲ | **[Agent 8](https://agent8.org)** | Autonomous AI partner platform — 8 agents orchestrate, debate, and ship code. Mac App + Chrome Extension + API. | `Multi-Agent` `MCP` `Living Software` |
+| 🌸 | **[Scentwiki](https://scentwiki.io)** | Global fragrance encyclopedia with AI-driven reviews and recommendations. | `Next.js` `Firestore` `AI Search` |
+| 📊 | **[Marketing KPI](https://marketing.picoinnov.com/)** | Real-time strategic insights and campaign management for pharmacy marketing. | `Data Viz` `Real-time KPI` `Firebase` |
+| 🤖 | **[PicoFriends](https://picofriends-6d48f.web.app)** | AI simulation where pharmacy students experience MR roles in realistic scenarios. | `AI Simulation` `Roleplay` `Analytics` |
+| 💼 | **[Pharma Talent](https://partners.picoinnov.com)** | Industry-specialized recruitment connecting pharmacists and pharma companies. | `Matching` `CRM` `Alerts` |
+| 📈 | **[Finance](https://finance.greatpola.com/)** | AI-powered corporate finance analyzer with automated market insights. | `AI Finance` `Reports` `Automation` |
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vertex AI](<https://img.shields.io/badge/Vertex_AI_(Gemini)-886FBF?style=flat-square&logo=google&logoColor=white>)
+![Gemini](https://img.shields.io/badge/Gemini_API-886FBF?style=flat-square&logo=google&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord_Bot-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 By The Numbers
+## By The Numbers
 
 <div align="center">
 
-|       Metric        | Count |
-| :-----------------: | :---: |
-|    **Iron Laws**    |  11   |
-|  **Partner Silos**  |   8   |
-|  **Domain Skills**  |  85+  |
-|    **Workflows**    |  25   |
-| **Service Domains** |  17   |
-|  **Route Groups**   |  14   |
-| **Health Scanners** |  10   |
-|   **Hook Events**   |   5   |
-|  **Quality Gates**  |   4   |
-| **Approval Tiers**  |   3   |
+| Metric | Count |
+|:---:|:---:|
+| **Iron Laws** | 17 |
+| **Partner Silos** | 8 |
+| **Domain Skills** | 53 |
+| **Workflows** | 6 |
+| **Service Domains** | 19 |
+| **Route Groups** | 14 |
+| **Monorepo Packages** | 12 |
+| **Supported Languages** | 3 (ko · en · ja) |
+| **Quality Gates** | 4 (typecheck · lint · test · deploy) |
+| **Responsibility Tiers** | 3 (D · R · O) |
 
 </div>
 
@@ -148,5 +172,5 @@ Agent 8 is an autonomous AI partner orchestration platform. 8 specialized AI age
 
 <div align="center">
   <sub><strong>Strategies do not raise revenue — execution does.</strong></sub><br/>
-  <sub>© 2026 Agent 8 · Built with Agent 8</sub>
+  <sub>© 2026 Antigravity · Built with Agent 8</sub>
 </div>
