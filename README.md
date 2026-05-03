@@ -116,32 +116,6 @@ Access to the Agent 8 CLI and MCP adapters is available to registered developers
 
 ---
 
-## Projects Showcase
-
-### Live Domains
-
-| Domain | Description |
-|:---|:---|
-| [**agent8.org**](https://agent8.org) | Agent 8 — AI Partner platform, workspace, downloads |
-| [**portfolio.greatpola.com**](https://portfolio.greatpola.com) | Interactive portfolio of AI-native project outputs |
-| [**scentwiki.io**](https://scentwiki.io) | Global fragrance encyclopedia with AI recommendations |
-| [**marketing.picoinnov.com**](https://marketing.picoinnov.com) | Real-time KPI dashboard for pharmacy marketing |
-| [**partners.picoinnov.com**](https://partners.picoinnov.com) | Pharma talent matching & recruitment platform |
-| [**finance.greatpola.com**](https://finance.greatpola.com) | AI-powered corporate finance analyzer |
-
-### Highlighted Products
-
-| | Project | Description | Stack |
-|:---:|:---|:---|:---|
-| ▲ | **[Agent 8](https://agent8.org)** | Autonomous AI partner platform — 8 agents orchestrate, debate, and ship code. Mac App + Chrome Extension + API. | `Multi-Agent` `MCP` `Living Software` |
-| 🌸 | **[Scentwiki](https://scentwiki.io)** | Global fragrance encyclopedia with AI-driven reviews and recommendations. | `Next.js` `Firestore` `AI Search` |
-| 📊 | **[Marketing KPI](https://marketing.picoinnov.com/)** | Real-time strategic insights and campaign management for pharmacy marketing. | `Data Viz` `Real-time KPI` `Firebase` |
-| 🤖 | **[PicoFriends](https://picofriends-6d48f.web.app)** | AI simulation where pharmacy students experience MR roles in realistic scenarios. | `AI Simulation` `Roleplay` `Analytics` |
-| 💼 | **[Pharma Talent](https://partners.picoinnov.com)** | Industry-specialized recruitment connecting pharmacists and pharma companies. | `Matching` `CRM` `Alerts` |
-| 📈 | **[Finance](https://finance.greatpola.com/)** | AI-powered corporate finance analyzer with automated market insights. | `AI Finance` `Reports` `Automation` |
-
----
-
 ## Tech Stack
 
 <div align="center">
